@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964841611663",
+    "project_id": "photosharing-fb25f",
+    "storage_bucket": "photosharing-fb25f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964841611663:android:67a9643ec3b73a2b8aabfa",
+        "android_client_info": {
+          "package_name": "com.android.mfcolak.photosharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964841611663-hnqfm3ed337kd3n1mo67tn5lr1fomfqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKpmZ_P8l1e-8TPWMh63IYAdPo0TPN0Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964841611663-hnqfm3ed337kd3n1mo67tn5lr1fomfqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
